@@ -1,16 +1,73 @@
-## Hi there 👋
+👋 Hi, ich bin Gerrit
 
-<!--
-**GerritMihu/GerritMihu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 HTL-Lehrer für Elektronik & Technische Informatik
+🔧 Fokus auf Embedded Systems, Linux & Prototypenbau
+💡 Begeistert von praxisnaher Technik, die wirklich funktioniert
 
-Here are some ideas to get you started:
+🚀 Über mich
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ich arbeite im Bereich Elektronik, Embedded Development und Linux-Systeme und liebe es, Hardware und Software sinnvoll zu verbinden.
+Neben eigenen Projekten entwickle ich auch Unterrichtskonzepte und technische Umsetzungen für praxisorientiertes Lernen.
+
+🛠️ Tech Stack
+
+Sprachen & Embedded
+
+C / C++
+
+Python
+
+Arduino / Embedded C
+
+Raspberry Pi Pico SDK
+
+Systeme & Tools
+
+Linux (Mint, Debian)
+
+Git & GitHub
+
+VS Code
+
+LaTeX
+
+Hardware
+
+Mikrocontroller
+
+SSD1306 Displays
+
+Sensorik & Aktorik
+
+Prototypenbau
+
+🔬 Aktuelle Themen
+
+Portierung von Arduino-Projekten auf das Pico SDK
+
+Embedded UI mit SSD1306
+
+Strukturierte Projektarbeit im Unterricht
+
+Linux-Installationsskripte & Automatisierung
+
+📌 Ausgewählte Projekte
+
+👉 Hier findest du eine Auswahl meiner technischen Projekte:
+(Hier kannst du später deine besten Repositories verlinken)
+
+Embedded Heizungssteuerung mit OLED UI
+
+Linux Mint Installationsskript für Schulumgebung
+
+Transistor-Verstärker Unterrichtsprojekt
+
+📈 Ziel
+
+Ich möchte:
+
+qualitativ saubere Embedded-Projekte veröffentlichen
+
+didaktisch hochwertige Technikbeispiele dokumentieren
+
+Open-Source-Projekte im Bildungsbereich unterstützen
