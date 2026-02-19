@@ -1,56 +1,64 @@
-👋 Hi, ich bin Gerrit
----
--🎓 HTL-Lehrer für Elektronik & Technische Informatik
--🔧 Fokus auf Embedded Systems, Linux & Prototypenbau
--💡 Begeistert von praxisnaher Technik, die wirklich funktioniert
+# Hi, ich bin Gerrit 👋
+
+**HTL‑Lehrer (Elektronik & Technische Informatik)** und **Entwickler** mit Fokus auf **Embedded Systems**, **Linux** und **praxisnahe Prototypen**.  
+Ich verbinde Hardware und Software so, dass sie **robust**, **verständlich** und **unterrichtstauglich** sind.
 
 ---
-🚀 Über mich
 
-Ich arbeite im Bereich Elektronik, Embedded Development und Linux-Systeme und liebe es, Hardware und Software sinnvoll zu verbinden.
-Neben eigenen Projekten entwickle ich auch Unterrichtskonzepte und technische Umsetzungen für praxisorientiertes Lernen.
-
----
-🛠️ Tech Stack
-
-Sprachen & Embedded
-C / C++
-Python
-Arduino / Embedded C
-Raspberry Pi Pico SDK
-
-Systeme & Tools
-Linux (Mint, Debian)
-Git & GitHub
-VS Code
-LaTeX
-
-Hardware
-Mikrocontroller
-SSD1306 Displays
-Sensorik & Aktorik
-Prototypenbau
+## Was ich mache
+- Embedded‑Projekte (C/C++, Raspberry Pi Pico, SSD1306 UIs)
+- Linux‑Automation für Schul-/Lab‑Rechner (Git, Ansible, Skripte)
+- Didaktisch saubere Beispiele für Unterricht & Workshops
 
 ---
-🔬 Aktuelle Themen
 
-Portierung von Arduino-Projekten auf das Pico SDK
-Embedded UI mit SSD1306
-Strukturierte Projektarbeit im Unterricht
-Linux-Installationsskripte & Automatisierung
+## Tech‑Stack (Auszug)
+**Sprachen**: C/C++, Python  
+**MCUs/SDKs**: Raspberry Pi Pico (Pico SDK), Arduino  
+**Systeme/Tools**: Linux (Debian/Mint), Git & GitHub, VS Code, KiCad, LaTeX  
+**Hardware**: Mikrocontroller, Sensorik/Aktorik, SSD1306‑Displays, Prototyping
 
----
-📌 Ausgewählte Projekte
-
-👉 Hier findest du eine Auswahl meiner technischen Projekte:
-
-TODO...
+> Schlank halten – mehr im Repo bei Bedarf.
 
 ---
-📈 Ziel
 
-Ich möchte:
+## Ausgewählte Projekte
+- **Stiftklavier (Stylophon)** – KiCad‑Projekt inkl. Doku (NE555, SMD), ideal für Unterricht & Lötpraxis.  
+  Repo: https://github.com/GerritMihu/Stiftklavier [2](https://github.com/GerritMihu/Stiftklavier)
 
-qualitativ saubere Embedded-Projekte veröffentlichen
-didaktisch hochwertige Technikbeispiele dokumentieren
-Open-Source-Projekte im Bildungsbereich unterstützen
+- **SMD‑NE555 – astabile Kippstufe** – kleines, klares Lernprojekt mit Gerbern/BOM.  
+  Repo: https://github.com/GerritMihu/SMD-NE555-Astabile-Operation [3](https://github.com/GerritMihu/SMD-NE555-Astabile-Operation)
+
+- **SMT‑Transistor‑Blinki** – Astabile Kippstufe mit SMT‑Bauteilen, kompakt für Einsteiger.  
+  Repo: https://github.com/GerritMihu/SMT-Transistor-Blinki [4](https://github.com/GerritMihu/SMT-Transistor-Blinki)
+
+- **PiPicoDriveController** – Motortreiber für Raspberry Pi Pico (Dual‑H‑Bridge L6205PD).  
+  Repo: https://github.com/GerritMihu/PiPicoDriveController [5](https://github.com/GerritMihu/PiPicoDriveController)
+
+- **SuperSimpleSupply_USBC** – Netzteil‑Projekt mit USB‑C, KiCad + CI/CD via KiBot.  
+  Repo: https://github.com/GerritMihu/SuperSimpleSupply_USBC [6](https://github.com/GerritMihu/SuperSimpleSupply_USBC)
+
+- **lab_config** – Ansible‑Basis für Labor-/Schulrechner (Automatisierung, Baseline).  
+  Repo: https://github.com/GerritMihu/lab_config [7](https://github.com/GerritMihu/lab_config)
+
+> Mehr Repos auf meinem Profil: https://github.com/GerritMihu [8](https://github.com/GerritMihu)
+
+---
+
+## Für den Unterricht
+- Ziel: **robuste, reproduzierbare** Beispiele, die Schüler:innen selbständig nachbauen können.
+- Fokus: **klare Schritt‑für‑Schritt‑Anleitungen**, **BOMs**, **Gerber**, **Skripte**.
+- Ich freue mich über **Feedback** und **Pull Requests** zu Verständlichkeit & Didaktik.
+
+---
+
+## Kontakt & Zusammenarbeit
+- Issues in den jeweiligen Repos
+
+---
+
+### Optional: Profil‑Stats (deaktiviert – bei Bedarf einkommentieren)
+<!--
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GerritMihu&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerritMihu&layout=compact)
+-->
