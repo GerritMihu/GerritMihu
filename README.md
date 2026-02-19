@@ -14,11 +14,9 @@ Ich verbinde Hardware und Software so, dass sie **robust**, **verständlich** un
 
 ## Tech‑Stack (Auszug)
 **Sprachen**: C/C++, Python  
-**MCUs/SDKs**: Raspberry Pi Pico (Pico SDK), Arduino  
-**Systeme/Tools**: Linux (Debian/Mint), Git & GitHub, VS Code, KiCad, LaTeX  
-**Hardware**: Mikrocontroller, Sensorik/Aktorik, SSD1306‑Displays, Prototyping
-
-> Schlank halten – mehr im Repo bei Bedarf.
+**MCUs/SDKs**: Raspberry Pi Pico (Pico SDK), PlatformIO, Arduino  
+**Systeme/Tools**: Linux (Debian), Git & GitHub, VS Code, KiCad, FreeCAD  
+**Hardware**: Mikrocontroller, Sensorik/Aktorik, Prototyping
 
 ---
 
