@@ -54,9 +54,3 @@ Ich verbinde Hardware und Software so, dass sie **robust**, **verständlich** un
 - Issues in den jeweiligen Repos
 
 ---
-
-### Optional: Profil‑Stats (deaktiviert – bei Bedarf einkommentieren)
-<!--
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GerritMihu&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerritMihu&layout=compact)
--->
